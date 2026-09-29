@@ -6,7 +6,7 @@ def is_palindrome(num):
     return original == reverse
 
 
-number = 121
+number = 113
 
 if is_palindrome(number):
     print(number, "is a Palindrome")
